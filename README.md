@@ -1,5 +1,4 @@
 &nbsp;<div align="center">
-<img src="https://avatars.githubusercontent.com/u/132208831?v=4" width='200' height='200'>
   ![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)
 </div>
 <h2 align="center">
@@ -10,7 +9,7 @@
 <h2 align="center">
  <img src="https://media.giphy.com/media/FWyLGar0fQADQeKWYc/giphy.gif" width='100'>
  <img src="https://media.giphy.com/media/Nta20xR2YdEMWv5bYA/giphy.gif" width='150'>
-     &nbsp; &nbsp; &nbsp; Expert Full-Stack (Heavy Front-End) Developer
+     &nbsp; &nbsp; &nbsp; Expert Full-Stack Developer
  
 </h2>
 <h3 align="center">
@@ -42,10 +41,9 @@ Ready for an opportunity to use my skills to grow your business and revenue expo
      <a href="https://stats.hyochan.dev/en/stats/byteslinger"><img src="https://stats.hyochan.dev/api/github-stats?login=byteslinger" width="600" /></a>
      <img src="https://github-readme-activity-graph.vercel.app/graph?username=byteslinger&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 -->
-      <h3 align="center">Example Sites</h3>
-
+      
 ###
-
+<!--
 <div align="center">
   https://lightning-farron-fi.vercel.app/
   <br/>
@@ -57,7 +55,7 @@ https://inori-yuzuriha-me.vercel.app/
   <br/>
 https://mari-illustrious-me.vercel.app/
   <br/>
-</div>
+</div> -->
 <h2 align="center">🛠 Language and tools</h2>
 
 ###
